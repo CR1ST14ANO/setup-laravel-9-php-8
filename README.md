@@ -4,7 +4,7 @@
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone  https://github.com/cristianomartinshbl/setup-laravel-9-php-8 laravel9
+git clone  https://github.com/CR1ST14ANO/setup-laravel-9-php-8 laravel9
 ```
 
 ```sh
